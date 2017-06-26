@@ -67,6 +67,7 @@ I verified that my perspective transform was working as expected by drawing the 
 Then i used gathered x points for left and right lanes along the sliding windows found and fit second order polynomial.
 
 Thresholded image : ![Image][image3]
+
 Detected lanes and Polynomial fit of the thresholded image : ![Polynomial fit][image5]
 
 
