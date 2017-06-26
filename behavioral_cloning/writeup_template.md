@@ -1,4 +1,4 @@
-**Behavioral Cloning Project**
+# Behavioral Cloning Project**
 
 
 [//]: # (Image References)
@@ -10,8 +10,7 @@
 [image5]: ./examples/left_image.png "Left Recovery Image"
 [image5]: ./examples/right_image.png "Right Recovery Image"
 
-## Rubric Points
-
+### Rubric Points
 ---
 
 ####1. Submission includes all required files and can be used to run the simulator in autonomous mode
