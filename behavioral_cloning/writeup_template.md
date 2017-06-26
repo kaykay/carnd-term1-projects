@@ -8,7 +8,7 @@
 [image2]: ./examples/cropped_img.jpg "Cropped Image"
 [image4]: ./examples/flipped_img.png "Flipped Image"
 [image5]: ./examples/left_image.png "Left Recovery Image"
-[image5]: ./examples/right_image.png "Right Recovery Image"
+[image6]: ./examples/right_image.png "Right Recovery Image"
 
 ### Rubric Points
 ---
@@ -30,6 +30,7 @@ The model.py file contains the code for training and saving the convolution neur
 
 ###Model Architecture and Training Strategy
 Model is based on NVidia's [deep learning paper](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
+Model used : ![Model][image1]
 
 ####1. An appropriate model architecture has been employed
 
@@ -60,4 +61,10 @@ I finally randomly shuffled the data set and put 10% of the data into a validati
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
 Here are some of the example image:
-Model Viaualization : ![Model][image1]
+Original Image : ![Model][image2]
+Cropped Image : ![Model][image3]
+Flipped Image : ![Model][image4]
+Left Recovery Image : ![Model][image5]
+Right Recovery Image : ![Model][image6]
+
+
