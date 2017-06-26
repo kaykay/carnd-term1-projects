@@ -5,8 +5,8 @@
 
 [image1]: ./examples/Nvidia_neural_net.png "Model Visualization"
 [image2]: ./examples/original_image.jpg "Original Image"
-[image2]: ./examples/cropped_img.jpg "Cropped Image"
-[image4]: ./examples/flipped_img.png "Flipped Image"
+[image3]: ./examples/cropped_img.jpg "Cropped Image"
+[image4]: ./examples/flipped_image.png "Flipped Image"
 [image5]: ./examples/left_image.png "Left Recovery Image"
 [image6]: ./examples/right_image.png "Right Recovery Image"
 
@@ -63,9 +63,13 @@ I used this training data for training the model. The validation set helped dete
 
 Here are some of the example image:
 Original Image : ![Model][image2]
+
 Cropped Image : ![Model][image3]
+
 Flipped Image : ![Model][image4]
+
 Left Recovery Image : ![Model][image5]
+
 Right Recovery Image : ![Model][image6]
 
 
