@@ -13,7 +13,6 @@
 ### Rubric Points
 ---
 
-####1. Submission includes all required files and can be used to run the simulator in autonomous mode
 
 My project includes the following files:
 * model.py containing the script to create and train the model
@@ -21,7 +20,6 @@ My project includes the following files:
 * model.h5 containing a trained convolution neural network 
 * writeup_report.md or writeup_report.pdf summarizing the results
 
-####2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
 ```sh
 python drive.py model.h5
@@ -60,3 +58,6 @@ I also restricted the number of examples that drive straight since they were ove
 I finally randomly shuffled the data set and put 10% of the data into a validation set. 
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. I used an adam optimizer so that manually training the learning rate wasn't necessary.
+
+Here are some of the example image:
+Model Viaualization : ![Model][image1]
