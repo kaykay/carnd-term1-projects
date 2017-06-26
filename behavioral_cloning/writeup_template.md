@@ -72,4 +72,6 @@ Left Recovery Image : ![Model][image5]
 
 Right Recovery Image : ![Model][image6]
 
+Finally, I tried the model on different track, the model failed miserably, i probably have to augment with more data and figure out a way to generalize the model more.
+
 
