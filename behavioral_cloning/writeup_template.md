@@ -6,9 +6,9 @@
 [image1]: ./examples/Nvidia_neural_net.png "Model Visualization"
 [image2]: ./examples/original_image.jpg "Original Image"
 [image3]: ./examples/cropped_img.jpg "Cropped Image"
-[image4]: ./examples/flipped_image.png "Flipped Image"
-[image5]: ./examples/left_image.png "Left Recovery Image"
-[image6]: ./examples/right_image.png "Right Recovery Image"
+[image4]: ./examples/flipped_image.jpg "Flipped Image"
+[image5]: ./examples/left_image.jpg "Left Recovery Image"
+[image6]: ./examples/right_image.jpg "Right Recovery Image"
 
 ### Rubric Points
 ---
