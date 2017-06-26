@@ -21,8 +21,8 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/undistort.png "Undistorted"
 [image2]: ./examples/undistorted_warped.jpg "Road Transformed"
-[image3]: ./examples/thresholding.png "Binary Example"
-[image4]: ./examples/warp_before_after.png "Warp Example"
+[image3]: ./examples/thresholded.png "Binary Example"
+[image4]: ./examples/warped_before_after.png "Warp Example"
 [image5]: ./examples/polyfit.png "After polyfitting"
 [image6]: ./examples/projection_onto_lane.png "Projection onto lane"
 [image7]: ./examples/points_for_warping.png "Points used for warping"
