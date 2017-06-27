@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image2]: ./examples/before_grayscale.png "Grayscaling"
 [image3]: ./examples/after_grayscale.png "Grayscaling"
 [image4]: ./examples/sign_grayscaled_normalized.png "Random Noise"
-[image5]: ./examples/new_signs.png "Unseen Traffic Signs"
+[image5]: ./examples/newsigns.png "Unseen Traffic Signs"
 
 ---
 
