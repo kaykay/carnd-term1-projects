@@ -200,9 +200,6 @@ def process_img(image):
     Prev_result[0] = result
     return result;
 
-
-
-
 result = process_img(image)
 plt.imshow(result)
 plt.show()
