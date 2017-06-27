@@ -148,7 +148,7 @@ def process_img(image):
     top_dist = rightx[-1] - leftx[-1]
     
     #number of pixels off center
-    off_center_in_pixels = img_center - lane_center
+    off_center_in_pixels = lane_center - img_center
     
     leftx = leftx[::-1]  # Reverse to match top-to-bottom in y
     rightx = rightx[::-1]  # Reverse to match top-to-bottom in y
