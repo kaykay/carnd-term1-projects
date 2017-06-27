@@ -132,12 +132,12 @@ For the first image, the model is relatively sure that this is a stop sign (prob
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| .45         			|  No entry   									| 
-| .31     				| Stop sign 										|
-| .30					| Yield											|
-| .34	      			| U-Turn				 				|
-| .28				    | Turn right ahead      							|
-| .32				    | 80 km/h      							|
+| 1         			|  No entry   									| 
+| 0.77     				| Stop sign 										|
+| 0.98					| Yield											|
+| 1	      			| U-Turn				 				|
+| .54				    | Turn right ahead      							|
+| .76				    | 80 km/h      							|
 
 
 
