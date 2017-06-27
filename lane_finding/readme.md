@@ -83,8 +83,9 @@ I implemented this step in lines 181 through 199 in my code in `finding_lines.py
 
 ### Pipeline (video)
 
-#### 1. Link to new submission [final video](https://youtu.be/ocXSjyDup5w)
-#### 2. Link to previous submission [final video](https://www.youtube.com/watch?v=pAWVu4iSTS4)
+#### 1. Link to new submission [final video](https://youtu.be/0WQvMT2Fjno)
+#### 2. Link to previous [final video](https://youtu.be/ocXSjyDup5w)
+#### 3. Link to previous submission [final video](https://www.youtube.com/watch?v=pAWVu4iSTS4)
 ---
 
 ### Discussion
